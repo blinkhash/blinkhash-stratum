@@ -42,6 +42,7 @@
     "bignum": "0.13.1",
     "foundation-multi-hashing": "0.1.3",
     "foundation-utxo-lib": "0.0.2",
+    "zeromq": "^5.2.8",
     "sha3": "2.1.4"
   },
   "devDependencies": {
